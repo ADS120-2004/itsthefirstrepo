@@ -7,5 +7,5 @@ you are the hero
 }
 (git commit -m "#commit msg#") -> that file goes to the local file
 (git push origin main)
-
+(git pull) to update changes in the github
 
