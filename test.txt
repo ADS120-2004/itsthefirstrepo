@@ -10,3 +10,7 @@ you are the hero
 (git push origin main) that file goes to the GitHub on web
 (git pull) to update changes the happened in the GitHub to the system
 
+
+now create a folder in the system and put it in the github 
+
+(cd..) goes back to the orignal folder in the system
