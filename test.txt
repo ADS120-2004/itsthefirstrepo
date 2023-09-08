@@ -39,4 +39,5 @@ now we are in main branch if we give
 (git diff #other branch name#) -> it gives the difference between main branch and the other branch which is entered 
  
 now we are in main branch, if we need to merge the main branch and other branch, give
-(git merge #other branch name#) 
+(git merge #other branch name#) -> along with
+(git push origin main)
