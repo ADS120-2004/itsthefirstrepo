@@ -15,3 +15,21 @@ now create a folder in the system and put it in the github
 
 (cd..) goes back to the orignal folder in the system
 (git init) change the normally created folder to github folder
+(git add .) it makes all the modified to the staging area
+(git commit -m#msg#)
+Next to this step we normally give git push origin main, but here it won't works.
+first we need to create a new repository in the GitHubim, it's is name as same as in system folder and give
+(git remote add origin #link#) this direct the computer to the new repository
+
+here branch is new, to know branch name give
+(git branch) -> gives the current branch name
+
+to change the branch name give
+(git branch -M #name to be changed#)
+
+(git push origin main)
+
+how branches works:
+(git branch -a) list out all the branches in the current repository 
+
+ 
