@@ -14,3 +14,4 @@ you are the hero
 now create a folder in the system and put it in the github 
 
 (cd..) goes back to the orignal folder in the system
+(git init) change the normally created folder to github folder
