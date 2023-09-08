@@ -31,5 +31,10 @@ to change the branch name give
 
 how branches works:
 (git branch -a) list out all the branches in the current repository 
+ 
+to go to another branch
+(git checkout #branch to go#)
 
+now we are in main branch if we give
+(git diff #other branch name#) -> it gives the difference between main branch and the other branch which is entered 
  
