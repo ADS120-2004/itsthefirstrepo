@@ -40,3 +40,8 @@ now we are in main branch if we give
  
 now we are in main branch, if we need to merge the main branch and other branch, give
 (git merge #other branch name#) 
+
+consider we are working in a repository called details
+we have 3 branches
+the changes that happened in main need to come in branch_2,  for this we need to be in branch_2, and give
+(git pull origin main)
