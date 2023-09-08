@@ -6,7 +6,7 @@ you are the hero
 {
     first in red color -> git add #filename# -> normal
 }
-(git commit -m "#commit msg#") -> that file goes to the local file
-(git push origin main)
+(git commit -m "#commit msg#") -> that file goes to the local git folder
+(git push origin main) that file goes to the GitHub on web
 (git pull) to update changes in the github
 
