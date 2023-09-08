@@ -1,5 +1,6 @@
 you are the hero
 (git clone #link#) to clone the folder to the local
+(cd #folder_name#) it goes to the folder were we need to work
 (git add #file name#) u changes to a
 (git status) gives the status of the file to be added
 {
